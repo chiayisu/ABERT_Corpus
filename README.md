@@ -1,1 +1,16 @@
 # Corpus for ABERT Model
+
+## Citation
+```bibtex
+  @Article{AidIR,
+      author = {Wang, Da-Jinn and Chen, Tsong-Yi and Su, Chia-Yi},
+      title = {AidIR: An Interactive Dialog System to Aid Disease Information Retrieval},
+      journal = {Applied Sciences},
+      volume = {12},
+      year = {2022},
+      number = {4},
+      doi = {10.3390/app12041875},
+    }
+
+
+
